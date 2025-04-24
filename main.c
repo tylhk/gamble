@@ -192,12 +192,10 @@ void menu_jump(int num)
         case 1:
             system("cls");
             mode_menu1();
-            return 0;
             break;
         case 2:
             system("cls");
             mode_menu2();
-            return 0;
             break;
         case 3:
             exit(0);
